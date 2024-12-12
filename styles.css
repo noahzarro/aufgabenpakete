@@ -1,0 +1,83 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    padding-top: 20pt;
+    font-size: 20pt;
+    font-family: "Arial";
+    line-height: 1.15;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+}
+
+h3 {
+    margin-bottom: 5pt;
+    color: #434343;
+    font-weight: normal;
+}
+
+ul {
+    margin-top: 0;
+}
+
+ul {
+    list-style-type: none; /* Remove default bullets */
+    padding-left: 20px;    /* Add space for custom bullets */
+}
+
+ul li::before {
+    content: "-";          /* Use hyphen as the bullet */
+    margin-right: 10px;    /* Add space between bullet and text */
+    color: black;          /* Optional: Customize bullet color */
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 2px;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    text-align: start;
+}
+
+/* Main Content */
+main {
+    padding: 20px;
+}
+
+/* Collapsible Button */
+.collapsible {
+    background-color: #f1f1f1;
+    color: #333;
+    cursor: pointer;
+    padding: 10px 20px;
+    text-align: left;
+    border: none;
+    outline: none;
+    font-size: 26px;
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 8px 8px 0px 0px;
+    border: 1px solid #ddd;
+}
+
+.collapsible:hover {
+    background-color: #ddd;
+}
+
+/* Collapsible Content */
+.content {
+    padding: 0 20%;
+    display: none;
+    overflow: hidden;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+}
