@@ -137,8 +137,6 @@
 - Dieses Aufgabenpaket ist relativ umfassend, daher werden wir dir ein Gspänli zuteilen (oder du bringst gleich eines mit)  
 - Bei Bedarf bekommst du während des Lagers Helfende zugeteilt
 
-# 
-
 # 🤵Gäste/Öffentlichkeitsarbeit
 
 ### Startzeit
@@ -317,7 +315,3 @@
 ### Von Vorteil bringst du mit
 
 - Deine Idee
-
-### Weiteres
-
-- 
