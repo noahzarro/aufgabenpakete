@@ -144,7 +144,7 @@
 
 **Nach dem Lager**
 
-- **/**
+- /
 
 ### Von Vorteil bringst du mit
 

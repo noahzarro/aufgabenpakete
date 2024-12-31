@@ -149,7 +149,6 @@
 
 - Konzept erstellen (Gäste definieren, Ablauf eines Besuches, etc.)  
 - Führungen organisieren  
-- 
 
 **Während dem Lager**
 
@@ -185,7 +184,7 @@
 
 **Während dem Lager**
 
-- 
+- /
 
 **Nach dem Lager**
 
