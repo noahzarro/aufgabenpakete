@@ -272,7 +272,7 @@
 
 ### Startzeit
 
-**per sofort**
+**März 2025 (direkt nach ausschreibung)**
 
 ### Aufgaben
 
